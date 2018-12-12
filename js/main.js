@@ -153,7 +153,7 @@ gameScene.preload = function ()
     this.load.image('10wallV', 'assets/images/10wallV.png');
     this.load.image('18wallH', 'assets/images/18wallH.png');
     this.load.image('7wallH', 'assets/images/7wallH.png');
-    this.load.image('7wallHGrass', 'assets/images/7wallHGrass.png');
+    this.load.image('7wallHGrass', 'assets/images/7wallHgrass.png');
     this.load.image('menu', 'assets/images/menu.png');
     //this.load.image('walls', 'assets/images/PilferFullMapWalls.png');
     
